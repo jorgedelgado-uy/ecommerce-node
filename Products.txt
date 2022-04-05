@@ -1,38 +1,32 @@
 [
   {
-    "tittle": "Ekko card Test",
-    "price": 300,
-    "thumbnail": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/7/7f/Ekko_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20160914225404&path-prefix=es",
-    "id": "2"
-  },
-  {
-    "title": "Ekko card Second",
+    "title": "Ekko One",
     "code": 99985854,
     "stock": 3,
     "price": 300,
     "description": "This is a test",
     "thumbnail": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/7/7f/Ekko_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20160914225404&path-prefix=es",
     "timestamp": 1649178735063,
-    "id": "21"
+    "id": 1
   },
   {
-    "title": "Ekko card Third",
+    "title": "Ekko Two",
     "code": 99985854,
     "stock": 3,
     "price": 400,
     "description": "This is a test",
     "thumbnail": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/7/7f/Ekko_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20160914225404&path-prefix=es",
     "timestamp": 1649178794666,
-    "id": "211"
+    "id": 2
   },
   {
-    "title": "Ekko card Third",
+    "title": "Ekko Three",
     "code": 99985854,
     "stock": 3,
     "price": 400,
     "description": "This is a test",
     "thumbnail": "https://static.wikia.nocookie.net/leagueoflegendsoficial/images/7/7f/Ekko_loading_screen.jpg/revision/latest/scale-to-width-down/250?cb=20160914225404&path-prefix=es",
     "timestamp": 1649178932575,
-    "id": 212
+    "id": 3
   }
 ]
